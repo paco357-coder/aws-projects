@@ -36,8 +36,6 @@ Optional Terraform code to provision the S3 bucket and enable static website hos
 
 \- Static website hosting
 
-\- IAM and bucket policies
-
 \- AWS CLI \& Terraform (infrastructure as code)
 
 
