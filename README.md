@@ -44,5 +44,5 @@ Optional Terraform code to provision the S3 bucket and enable static website hos
 
 \## Live Endpoint
 
-Include your website URL here once enabled:http://http://s3bucketbobby.s3-website-us-east-1.amazonaws.com/
+http://http://s3bucketbobby.s3-website-us-east-1.amazonaws.com/
 
